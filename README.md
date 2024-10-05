@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m currently studying at: <br>      - University of San Carlos BSIT - 2
+# Me: <br>     
+- University of San Carlos BSIT - 2 <br>
 Aspiring Developer and Software Engineer
 
 
