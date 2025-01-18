@@ -1,5 +1,5 @@
 #  ME:
-  <br>University of San Carlos BSIT - 2 <br>Aspiring Developer and Software Engineer<br>
+ University of San Carlos BSIT - 2 <br>Aspiring Developer and Software Engineer<br>
 
 
 # Tech Stack:
