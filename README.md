@@ -53,3 +53,32 @@
 
 ##  GitHub Trophy
 ![](https://github-profile-trophy.vercel.app/?username=Gnashal&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+
+<details>
+  <summary><strong>📬 Connect with Me</strong></summary>
+
+  <p>
+    <a href="mailto:yousifceballos@gmail.com" target="_blank">
+      <img src="https://via.placeholder.com/24x24.png?text=G" alt="Gmail" />
+      Gmail
+    </a>
+  </p>
+  <p>
+    <a href="https://www.facebook.com/yousif.ceballos/" target="_blank">
+      <img src="https://via.placeholder.com/24x24.png?text=F" alt="Facebook" />
+      Facebook
+    </a>
+  </p>
+  <p>
+    <a href="https://www.instagram.com/yowsep_/" target="_blank">
+      <img src="https://via.placeholder.com/24x24.png?text=I" alt="Instagram" />
+      Instagram
+    </a>
+  </p>
+  <p>
+    <a href="https://x.com/yow_sep" target="_blank">
+      <img src="https://via.placeholder.com/24x24.png?text=T" alt="Twitter" />
+      Twitter
+    </a>
+  </p>
+</details>
