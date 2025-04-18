@@ -55,7 +55,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Gnashal&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
 <details>
-  <summary><strong>📬 Connect with Me</strong></summary>
+  ## Connect Wtih Me
 
   <p>
     <a href="mailto:yousifceballos@gmail.com" target="_blank">
