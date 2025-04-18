@@ -3,6 +3,36 @@
 *Aspiring Developer and Software Engineer* <br>
 *Interested in Backend Development and Learning new stuff*
 
+<details>
+  <summary><strong>Connect With Me</strong></summary>
+
+  <p>
+    <a href="mailto:yousifceballos@gmail.com" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="24" />
+      Gmail
+    </a>
+  </p>
+  <p>
+    <a href="https://www.facebook.com/yousif.ceballos/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="24" />
+      Facebook
+    </a>
+  </p>
+  <p>
+    <a href="https://www.instagram.com/yowsep_/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="24" />
+      Instagram
+    </a>
+  </p>
+  <p>
+    <a href="https://x.com/yow_sep" target="_blank">
+      <img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="Twitter/X" width="24" />
+      Twitter
+    </a>
+  </p>
+
+</details>
+
 ---
 
 ## Tech Stack:
@@ -54,31 +84,3 @@
 ##  GitHub Trophy
 ![](https://github-profile-trophy.vercel.app/?username=Gnashal&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
-<## Connect Wtih Me>
-  
-
-  <p>
-    <a href="mailto:yousifceballos@gmail.com" target="_blank">
-      <img src="https://via.placeholder.com/24x24.png?text=G" alt="Gmail" />
-      Gmail
-    </a>
-  </p>
-  <p>
-    <a href="https://www.facebook.com/yousif.ceballos/" target="_blank">
-      <img src="https://via.placeholder.com/24x24.png?text=F" alt="Facebook" />
-      Facebook
-    </a>
-  </p>
-  <p>
-    <a href="https://www.instagram.com/yowsep_/" target="_blank">
-      <img src="https://via.placeholder.com/24x24.png?text=I" alt="Instagram" />
-      Instagram
-    </a>
-  </p>
-  <p>
-    <a href="https://x.com/yow_sep" target="_blank">
-      <img src="https://via.placeholder.com/24x24.png?text=T" alt="Twitter" />
-      Twitter
-    </a>
-  </p>
-</details>
