@@ -1,6 +1,6 @@
 ## Me:
 **University of San Carlos BSIT - 2**  
-*Aspiring Developer and Software Engineer*
+*Aspiring Developer and Software Engineer* <br>
 *Interested in Backend Development and Learning new stuff*
 
 ---
