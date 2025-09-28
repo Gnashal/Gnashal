@@ -1,10 +1,9 @@
-## Me:
+
 **University of San Carlos BSIT - 3**  
-*Aspiring Software Engineer* <br>
-*Interested in Backend Development and Learning new stuff*
+*Interested in Software Development and Learning new things*
 
 <details>
-  <summary><strong>Connect With Me</strong></summary>
+  <summary><h2>Connect With Me</h2></summary>
 
   <p>
     <a href="mailto:yousifceballos@gmail.com" target="_blank">
