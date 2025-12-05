@@ -2,39 +2,6 @@
 **University of San Carlos BSIT - 3**  
 *Interested in Software Development and Learning new things*
 
-<details>
-  <summary><h2>Connect With Me</h2></summary>
-
-  <p>
-    <a href="mailto:yousifceballos@gmail.com" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="24" />
-      Gmail
-    </a>
-  </p>
-  <p>
-    <a href="https://www.facebook.com/yousif.ceballos/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="24" />
-      Facebook
-    </a>
-  </p>
-  <p>
-    <a href="https://www.instagram.com/yowsep_/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="24" />
-      Instagram
-    </a>
-  </p>
-  <p>
-    <a href="https://x.com/yow_sep" target="_blank">
-      <img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="Twitter/X" width="24" />
-      Twitter
-    </a>
-  </p>
-
-</details>
-
----
-
-## Proficiency:
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
