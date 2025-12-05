@@ -5,6 +5,6 @@
 <h2 align="center">Languages & Frameworks</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cs,kotlin,java,go,python,js,ts,bash" />
-    <img src="https://skillicons.dev/icons?i=react,vite,nodejs,dotnet,elysia,grpc,jwt" /><br>
+    <img src="https://skillicons.dev/icons?i=react,vite,nodejs,dotnet,elysia,jwt" /><br>
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,aws,docker,cisco" />
 </div>
