@@ -42,8 +42,3 @@
 
 ### Networking / Infrastructure
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-
-##  GitHub Trophy
-![](https://github-profile-trophy.vercel.app/?username=Gnashal&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
-
