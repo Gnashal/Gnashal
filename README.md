@@ -10,7 +10,7 @@
 <h3>Frameworks & Tools</h3>
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,dotnet,elysia" />
 
-<h3>Databases, Networking & Infrastructure</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,aws,docker,cisco" />
+<h3>Databases & Infrastructure</h3>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,aws,docker" />
 
 </div>
