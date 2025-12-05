@@ -8,7 +8,7 @@
 <img src="https://skillicons.dev/icons?i=c,cs,kotlin,java,go,python,js,ts,bash" />
 
 <h3>Frameworks & Tools</h3>
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,dotnet,elysia" />
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,dotnet,elysia,nextjs,spring" />
 
 <h3>Databases & Infrastructure</h3>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,aws,docker" />
